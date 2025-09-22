@@ -1,11 +1,11 @@
 const certificateImages = [
-  "../src/certificates/SIH2K25.jpg", // First certificate
-  "../src/certificates/Techstars2K25.jpg", // Second certificate
-  "../src/certificates/Environmental Engineering.png", // Third certificate (new)
-  "../src/certificates/SoftwareEngineering.png", // Fourth certificate (new)
-  "../src/certificates/certificate1.png",
-  "../src/certificates/Postman-API-certificate.png",
-  "../src/certificates/Zero-to-One Hackathon CU.jpg"
+  "/certificates/SIH2K25.jpg", // First certificate
+  "/certificates/Techstars2K25.jpg", // Second certificate
+  "/certificates/Environmental Engineering.png", // Third certificate (new)
+  "/certificates/SoftwareEngineering.png", // Fourth certificate (new)
+  "/certificates/certificate1.png",
+  "/certificates/Postman-API-certificate.png",
+  "/certificates/Zero-to-One Hackathon CU.jpg"
 ];
 
 const certificateHeadings = [
